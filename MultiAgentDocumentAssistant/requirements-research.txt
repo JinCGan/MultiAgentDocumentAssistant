@@ -1,0 +1,12 @@
+langgraph>=1.0,<2
+langgraph-supervisor>=0.0.30,<0.1
+langgraph-checkpoint-postgres>=3.0,<4
+langchain-openai>=1.0,<2
+langchain-anthropic>=1.0,<2
+psycopg[binary,pool]>=3.2,<4
+neo4j>=5.26,<7
+qdrant-client>=1.15,<2
+fastembed>=0.7,<0.8
+sentence-transformers>=3.4,<6
+pymupdf>=1.25,<2
+pytest>=8,<10
